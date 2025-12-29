@@ -4,11 +4,25 @@
 
 ## Introduction
 
-Hello, I'm Subhashis Chandra, currently pursuing BTech in the 3rd year at the prestigious Indian Institute of Engineering Science and Technology (IIEST), Shibpur.
+Subhashis Chandra
 
-## Academic Journey
+👨‍💻 Passionate Developer | 📚 Lifelong Learner | 🎓 B.Tech from IIEST Shibpur | 💼 Software Developer at Mageba Bridge Products Pvt Ltd
 
-My academic journey has been filled with exploration and a thirst for knowledge. I am passionate about computer science and technology, with a particular interest in full-stack web development and software engineering.
+Hi there! I’m Subhashis, a developer with a love for coding and problem-solving. I enjoy working on projects that push me to learn new things and improve my skills. Currently, I’m working at Mageba Bridge Products Pvt Ltd, where I apply my technical expertise to real-world challenges in the bridge and infrastructure domain.
+
+🚀 I’ve completed my B.Tech from IIEST Shibpur, and I’m always excited to learn and grow through my work and open-source contributions.
+
+💡 Tech Stack:
+
+JavaScript / Node.js
+
+Python / Django
+
+React.js / Next.js
+
+HTML / CSS / Tailwind
+
+🔗 Feel free to explore my repositories, and don’t hesitate to reach out if you're interested in collaborating or discussing tech!ngineering.
 
 ## Skills
 
