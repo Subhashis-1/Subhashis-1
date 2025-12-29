@@ -40,21 +40,15 @@ Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pv
 - Software Engineering
 - Problem Solving
 - Data Structures and Algorithms
-- [Add more relevant skills]
 
 ## Projects
 
-- [Project 1](link_to_project1): Brief description of the project.
-- [Project 2](link_to_project2): Brief description of the project.
-- [Project 3](link_to_project3): Brief description of the project.
-- [Add more projects]
 
 ## Interests
 
 - Exploring new technologies
 - Participating in coding competitions
 - Open-source contributions
-- [Add more interests]
 
 ## Hobbies
 
@@ -62,8 +56,8 @@ When I'm not in front of a computer screen, you can find me enjoying outdoor act
 
 ## Contact
 
-- Email: your_email@example.com
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
-- GitHub: [Your GitHub Profile](link_to_github)
+- Email: subhashis.chandra.2003@gmail.com
+- LinkedIn: link
+- GitHub:[subhashis](https://github.com/Subhashis-1)
 
 Let's connect and collaborate to build a better tomorrow through technology! 🚀
