@@ -4,25 +4,35 @@
 
 ## Introduction
 
-Subhashis Chandra
+👨‍💻 Subhashis Chandra
 
-👨‍💻 Passionate Developer | 📚 Lifelong Learner | 🎓 B.Tech from IIEST Shibpur | 💼 Software Developer at Mageba Bridge Products Pvt Ltd
+Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pvt. Ltd.
 
-Hi there! I’m Subhashis, a developer with a love for coding and problem-solving. I enjoy working on projects that push me to learn new things and improve my skills. Currently, I’m working at Mageba Bridge Products Pvt Ltd, where I apply my technical expertise to real-world challenges in the bridge and infrastructure domain.
+🚀 Software developer focused on building scalable, efficient, and maintainable systems. Passionate about clean code, problem-solving, and continuous learning.
 
-🚀 I’ve completed my B.Tech from IIEST Shibpur, and I’m always excited to learn and grow through my work and open-source contributions.
+🏗️ Currently working at Mageba Bridge Products Pvt. Ltd., contributing to software solutions that support real-world engineering and infrastructure applications.
 
-💡 Tech Stack:
+💡 Areas of Interest
 
-JavaScript / Node.js
+🌐 Full-stack web development
 
-Python / Django
+⚙️ Backend systems & APIs
 
-React.js / Next.js
+🤖 Machine learning fundamentals
 
-HTML / CSS / Tailwind
+🌍 Open-source collaboration
 
-🔗 Feel free to explore my repositories, and don’t hesitate to reach out if you're interested in collaborating or discussing tech!ngineering.
+🛠️ Tech Stack
+
+🟨 JavaScript (Node.js, React, Next.js)
+
+🐍 Python (Django)
+
+🎨 HTML, CSS, Tailwind
+
+🔧 Git & GitHub
+
+📬 Always open to collaborating on impactful projects and learning from the developer community.
 
 ## Skills
 
