@@ -41,6 +41,30 @@ Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pv
 - Data Structures and Algorithms
 
 ## Projects
+Blog Website[https://ucsx.onrender.com/]:
+  ➔ Developed a full-stack blog application using Node.js and Express for backend
+  services.
+  ➔ Implemented server-side rendering with the EJS templating engine to dynamically
+  generate web pages.
+  ➔ Implemented RESTful routing and route parameters to enable seamless navigation to
+  individual blog posts
+Finance data Analyis Project[https://github.com/Subhashis-1/Finance/blob/main/Finance.ipynb]:
+  ➔ Conducted exploratory data analysis (EDA) on stock prices of major banks, analyzing
+  data from 2006–2016.
+  ➔ Utilized Python and Pandas for data manipulation, visualization, and statistical analysis.
+  ➔ Calculated and visualized key financial metrics, including daily returns and moving
+  averages.
+  ➔ Used visualization libraries such as Matplotlib, Seaborn, and Plotly to create insightful
+  dashboards
+Web Vulnerablity Scanner[https://github.com/Subhashis-1/Web_Vuln_scanner]:
+  ➔ Developed a Python-based web vulnerability scanner to automatically detect common
+  web security flaws.
+  ➔ Implemented web crawling across internal hyperlinks to analyze application attack
+  surfaces.
+  ➔ Utilized BeautifulSoup for HTML parsing and regular expressions for payload
+  detection and pattern matching.
+  ➔ Identified potential Cross-Site Scripting (XSS) and SQL Injection vulnerabilities
+  through automated request injection and response analysis
 
 
 ## Interests
