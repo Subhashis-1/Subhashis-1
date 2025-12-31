@@ -1,6 +1,5 @@
-# Subhashis Chandra | BTech 3rd Year | IIEST Shibpur
+# Subhashis Chandra Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pvt. Ltd.
 
-![Profile Picture](profile_picture_url)
 
 ## Introduction
 
@@ -35,10 +34,10 @@ Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pv
 📬 Always open to collaborating on impactful projects and learning from the developer community.
 
 ## Skills
-
-- Full-stack Web Development
-- Software Engineering
-- Problem Solving
+-Backend: Node.js, Django, Python
+-Programming Languages: C++, JavaScript, Python
+-DevOps / Tools: Git, GitHub, CI/CD, Azure, Redis, Agile
+-Machine Learning
 - Data Structures and Algorithms
 
 ## Projects
@@ -57,7 +56,7 @@ When I'm not in front of a computer screen, you can find me enjoying outdoor act
 ## Contact
 
 - Email: subhashis.chandra.2003@gmail.com
-- LinkedIn: link
+- LinkedIn: www.linkedin.com/in/subhashis-chandra-02478a288
 - GitHub:[subhashis](https://github.com/Subhashis-1)
 
 Let's connect and collaborate to build a better tomorrow through technology! 🚀
