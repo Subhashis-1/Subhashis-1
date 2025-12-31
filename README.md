@@ -40,31 +40,50 @@ Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pv
 -Machine Learning
 - Data Structures and Algorithms
 
-## Projects
-Blog Website[https://ucsx.onrender.com/]:
-  ➔ Developed a full-stack blog application using Node.js and Express for backend
-  services.
-  ➔ Implemented server-side rendering with the EJS templating engine to dynamically
-  generate web pages.
-  ➔ Implemented RESTful routing and route parameters to enable seamless navigation to
-  individual blog posts
-Finance data Analyis Project[https://github.com/Subhashis-1/Finance/blob/main/Finance.ipynb]:
-  ➔ Conducted exploratory data analysis (EDA) on stock prices of major banks, analyzing
-  data from 2006–2016.
-  ➔ Utilized Python and Pandas for data manipulation, visualization, and statistical analysis.
-  ➔ Calculated and visualized key financial metrics, including daily returns and moving
-  averages.
-  ➔ Used visualization libraries such as Matplotlib, Seaborn, and Plotly to create insightful
-  dashboards
-Web Vulnerablity Scanner[https://github.com/Subhashis-1/Web_Vuln_scanner]:
-  ➔ Developed a Python-based web vulnerability scanner to automatically detect common
-  web security flaws.
-  ➔ Implemented web crawling across internal hyperlinks to analyze application attack
-  surfaces.
-  ➔ Utilized BeautifulSoup for HTML parsing and regular expressions for payload
-  detection and pattern matching.
-  ➔ Identified potential Cross-Site Scripting (XSS) and SQL Injection vulnerabilities
-  through automated request injection and response analysis
+👇
+
+🚀 Projects
+📝 Blog Website
+
+🔗 Live: https://ucsx.onrender.com/
+
+-Developed a full-stack blog application using Node.js and Express.js.
+
+-Implemented server-side rendering (SSR) using EJS to dynamically generate web pages.
+
+-Designed and structured RESTful routes to handle CRUD operations efficiently.
+
+-Enabled seamless navigation between individual blog posts using dynamic routing.
+
+-Focused on clean UI, modular code structure, and scalable backend architecture.
+
+📊 Finance Data Analysis Project
+
+🔗 GitHub: https://github.com/Subhashis-1/Finance
+
+-Performed Exploratory Data Analysis (EDA) on historical stock market data (2006–2016).
+
+-Analyzed stock trends of major banks using Python and Pandas.
+
+-Computed key financial indicators such as daily returns, moving averages, and volatility.
+
+-Created insightful visualizations using Matplotlib, Seaborn, and Plotly for data-driven insights.
+
+-Improved understanding of market behavior through statistical analysis and graphical interpretation.
+
+🔐 Web Vulnerability Scanner
+
+🔗 GitHub: https://github.com/Subhashis-1/Web_Vuln_scanner
+
+-Built a Python-based automated web vulnerability scanner to detect common security flaws.
+
+-Implemented web crawling to traverse internal application links and map attack surfaces.
+
+-Used BeautifulSoup for HTML parsing and regular expressions for payload pattern detection.
+
+-Detected potential SQL Injection and Cross-Site Scripting (XSS) vulnerabilities through automated request injection and response analysis.
+
+-Designed the scanner with a focus on extensibility and security testing fundamentals.
 
 
 ## Interests
