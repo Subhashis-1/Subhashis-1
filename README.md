@@ -34,10 +34,10 @@ Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pv
 📬 Always open to collaborating on impactful projects and learning from the developer community.
 
 ## Skills
--Backend: Node.js, Django, Python
--Programming Languages: C++, JavaScript, Python
--DevOps / Tools: Git, GitHub, CI/CD, Azure, Redis, Agile
--Machine Learning
+- Backend: Node.js, Django, Python
+- Programming Languages: C++, JavaScript, Python
+- DevOps / Tools: Git, GitHub, CI/CD, Azure, Redis, Agile
+- Machine Learning
 - Data Structures and Algorithms
 
 👇
