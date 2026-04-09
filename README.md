@@ -1,93 +1,78 @@
-# Subhashis Chandra Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pvt. Ltd.
+# Hi, I'm Subhashis Chandra 👋
 
+**Software Developer** · Backend & Full-Stack Engineering · Distributed Systems
 
-## Introduction
+---
 
-👨‍💻 Subhashis Chandra
+## About Me
 
-Software Developer | 🎓 B.Tech, IIEST Shibpur | 💼 Mageba Bridge Products Pvt. Ltd.
+I'm a software developer with experience building scalable backend systems,
+developer tooling, and production-grade full-stack applications. I currently
+work at **Mageba**, where I lead the scaling and enhancement of a PHP-based
+enterprise ERP platform serving 1,000+ employees across factory, production,
+and supply chain operations.
 
-🚀 Software developer focused on building scalable, efficient, and maintainable systems. Passionate about clean code, problem-solving, and continuous learning.
+Previously, I co-created **TraceForge** — an open-source observability platform
+for microservices with distributed tracing and session replay, supporting
+analysis across 50+ services and reducing debugging time by over 60%.
 
-🏗️ Currently working at Mageba Bridge Products Pvt. Ltd., contributing to software solutions that support real-world engineering and infrastructure applications.
+I hold a B.Tech in Civil Engineering from **IIEST Shibpur**, and transitioned
+into software engineering through self-driven projects and hands-on experience.
 
-💡 Areas of Interest
+---
 
-🌐 Full-stack web development
+## Experience Highlights
 
-⚙️ Backend systems & APIs
+**Software Developer — Mageba** *(Aug 2025 – Present)*
+- Improved ERP system reliability and reduced process turnaround time by 40%
+- Led mobile-first redesign, increasing daily active usage by 2x
+- Architected multi-stage workflow orchestration reducing manual follow-ups by 50%
 
-🤖 Machine learning fundamentals
+**Co-Creator, Software Engineer — TraceForge** *(Aug 2024 – Jul 2025)*
+- Built high-performance Go API server handling 10,000+ events/sec, sub-200ms latency
+- Extended OpenTelemetry for auto-instrumentation across distributed systems
+- Enabled end-to-end session visibility across 50+ microservices
 
-🌍 Open-source collaboration
+**Intern — CSIR** *(May 2024 – Jul 2024)*
+- Engineered an ML pipeline predicting structural lifespan with 85% accuracy
+- Reduced data preparation time by 70% through automated processing
 
-🛠️ Tech Stack
+---
 
-🟨 JavaScript (Node.js, React, Next.js)
+## Technical Skills
 
-🐍 Python (Django)
+**Backend**
+`Node.js` `TypeScript` `Go` `PHP` `Python` `FastAPI` `NestJS` `Express`
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `CassandraDB` `Prisma` `Drizzle`
+`REST APIs` `GraphQL` `tRPC` `JWT` `OAuth`
 
-🎨 HTML, CSS, Tailwind
+**Frontend**
+`React` `Next.js` `JavaScript (ES6+)` `TailwindCSS` `HTML/CSS`
 
-🔧 Git & GitHub
+**Cloud & Infrastructure**
+`AWS (EC2, ECS, Fargate, S3, SQS, CloudWatch, IAM)`
+`Docker` `Linux` `OpenTelemetry`
 
-📬 Always open to collaborating on impactful projects and learning from the developer community.
+**Testing & DevOps**
+`Jest` `Playwright` `Cypress` `GitHub Actions` `CI/CD` `Git`
 
-## Skills
-- Backend: Node.js, Django, Python
-- Programming Languages: C++, JavaScript, Python
-- DevOps / Tools: Git, GitHub, CI/CD, Azure, Redis, Agile
-- Machine Learning
-- Data Structures and Algorithms
+---
 
-👇
+## Featured Project
 
-🚀 Projects
-📝 Blog Website
+### Wealthie — AI-Powered Financial Management Platform
+*Python · FastAPI · Gemini Vision API*
 
-🔗 Live: https://ucsx.onrender.com/
+An AI-powered receipt parsing system that reduced manual data entry time by 89%
+(from ~90s to under 10s), with asynchronous job processing improving system
+throughput by 5x and achieving over 95% extraction accuracy.
 
-- Developed a full-stack blog application using Node.js and Express.js.
-- Implemented server-side rendering (SSR) using EJS to dynamically generate web pages.
-- Designed and structured RESTful routes to handle CRUD operations efficiently.
-- Enabled seamless navigation between individual blog posts using dynamic routing.
-- Focused on clean UI, modular code structure, and scalable backend architecture.
+🔗 [View on GitHub](https://github.com/Subhashis-1)
 
-📊 Finance Data Analysis Project
+---
 
-🔗 GitHub: https://github.com/Subhashis-1/Finance
+## Let's Connect
 
-- Performed Exploratory Data Analysis (EDA) on historical stock market data (2006–2016).
-- Analyzed stock trends of major banks using Python and Pandas.
-- Computed key financial indicators such as daily returns, moving averages, and volatility.
-- Created insightful visualizations using Matplotlib, Seaborn, and Plotly for data-driven insights.
-- Improved understanding of market behavior through statistical analysis and graphical interpretation.
-
-🔐 Web Vulnerability Scanner
-
-🔗 GitHub: https://github.com/Subhashis-1/Web_Vuln_scanner
-
-- Built a Python-based automated web vulnerability scanner to detect common security flaws.
-- Implemented web crawling to traverse internal application links and map attack surfaces.
-- Used BeautifulSoup for HTML parsing and regular expressions for payload pattern detection.
-- Detected potential SQL Injection and Cross-Site Scripting (XSS) vulnerabilities through automated request injection and response analysis.
-- Designed the scanner with a focus on extensibility and security testing fundamentals.
-
-
-## Interests
-
-- Exploring new technologies
-- Participating in coding competitions
-- Open-source contributions
-
-## Hobbies
-
-When I'm not in front of a computer screen, you can find me enjoying outdoor activities, reading books, or spending quality time with friends and family.
-
-## Contact
-
-- Email: subhashis.chandra.2003@gmail.com
-- LinkedIn: www.linkedin.com/in/subhashis-chandra-02478a288
-- GitHub:[subhashis](https://github.com/Subhashis-1)
-
-Let's connect and collaborate to build a better tomorrow through technology! 🚀
+📧 subhashischandra125@gmail.com
+📍 Kolkata, India
+🐙 [GitHub](https://github.com/Subhashis-1)
